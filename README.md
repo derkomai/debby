@@ -15,7 +15,7 @@ Just remember to be cautious with your downloads and be sure about what you are 
 5. If you are using Ubuntu or at least the Nautilus file browser, ensure that **Edit > Preferences > Behaviour > Executable text files > Run executable text files when they are opened** option is activated.
 6. Open *debby.sh* by clicking on it.
 7. You will be asked for your password. Type it and click OK.
-8. Select the tasks you want to perform and click OK. Wait for them to complete. That's it.
+8. Select the deb package you want to install on your system and click OK. Wait for it to complete. That's it.
 
 
 
